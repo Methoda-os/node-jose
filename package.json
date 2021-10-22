@@ -42,7 +42,7 @@
     "es6-promise": "^4.2.6",
     "lodash": "^4.17.11",
     "long": "^4.0.0",
-    "node-forge": "^0.8.1",
+    "node-forge": "git://github.com/sdudley/forge.git#d3abdd74b8aac8f",
     "process": "^0.11.10",
     "stream-browserify": "^2.0.2",
     "uuid": "^3.3.2"
